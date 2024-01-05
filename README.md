@@ -8,7 +8,7 @@ Pneumatic based air missile developed using raw material. This is a small protot
   <img src="https://my-personal-static-website-02.s3.ap-south-1.amazonaws.com/image06.jpeg" width="100%" title="hover text">
 </p>
 <p align="center">
-  <img src="https://my-personal-static-website-02.s3.ap-south-1.amazonaws.com/image07.jpeg" width="100%" title="hover text">
+  <img src="https://my-personal-static-website-02.s3.ap-south-1.amazonaws.com/image04.jpeg" width="100%" title="hover text">
 </p>
 
 
